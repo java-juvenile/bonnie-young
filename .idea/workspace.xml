@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="061e721d-fc51-474a-b0f3-1b40e4d95025" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-juvenile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketServer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1WNebDUtyIarVupVopa8qQQCfYV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.SocketServer">
+    <configuration name="SocketClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maxwit.course.SocketClient" />
+      <module name="java-juvenile" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 9999" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maxwit.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.maxwit.course.SocketServer" />
+      <module name="java-juvenile" />
+      <option name="PROGRAM_PARAMETERS" value="9999" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.maxwit.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SocketServer" />
+        <item itemvalue="Application.SocketClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="061e721d-fc51-474a-b0f3-1b40e4d95025" name="Default Changelist" comment="" />
+      <created>1578994548496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578994548496</updated>
+      <workItem from="1578994552932" duration="12760000" />
+      <workItem from="1579026014486" duration="2095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="376" y="85" key="#SocketClient" timestamp="1578994977766">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="376" y="85" key="#SocketClient/0.23.1440.830@0.23.1440.830" timestamp="1578994977766" />
+    <state x="376" y="85" key="#SocketServer" timestamp="1578995077157">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="376" y="85" key="#SocketServer/0.23.1440.830@0.23.1440.830" timestamp="1578995077157" />
+    <state x="164" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578995039070">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="164" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.830@0.23.1440.830" timestamp="1578995039070" />
+    <state x="463" y="130" key="#xdebugger.evaluate" timestamp="1579013596313">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="463" y="130" key="#xdebugger.evaluate/0.23.1440.830@0.23.1440.830" timestamp="1579013596313" />
+    <state x="100" y="123" width="1200" height="594" key="DiffContextDialog" timestamp="1579020095965">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="100" y="123" width="1200" height="594" key="DiffContextDialog/0.23.1440.830@0.23.1440.830" timestamp="1579020095965" />
+    <state width="1199" height="195" key="GridCell.Tab.0.bottom" timestamp="1579061293598">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1199" height="195" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1579061293598" />
+    <state width="1199" height="195" key="GridCell.Tab.0.center" timestamp="1579061293597">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1199" height="195" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1579061293597" />
+    <state width="1199" height="195" key="GridCell.Tab.0.left" timestamp="1579061293596">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1199" height="195" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1579061293596" />
+    <state width="1199" height="195" key="GridCell.Tab.0.right" timestamp="1579061293598">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1199" height="195" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1579061293598" />
+    <state width="1390" height="243" key="GridCell.Tab.1.bottom" timestamp="1579025946132">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1390" height="243" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1579025946132" />
+    <state width="1390" height="243" key="GridCell.Tab.1.center" timestamp="1579025946131">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1390" height="243" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1579025946131" />
+    <state width="1390" height="243" key="GridCell.Tab.1.left" timestamp="1579025946131">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1390" height="243" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1579025946131" />
+    <state width="1390" height="243" key="GridCell.Tab.1.right" timestamp="1579025946131">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1390" height="243" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1579025946131" />
+    <state x="390" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1579026015605">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="390" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1579026015605" />
+    <state x="483" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579021463398">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="483" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.830@0.23.1440.830" timestamp="1579021463398" />
+    <state x="242" y="163" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1579022044463">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="242" y="163" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.830@0.23.1440.830" timestamp="1579022044463" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketServer.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketServer.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketServer.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketServer.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketServer.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketClient.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketClient.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketClient.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketClient.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketClient.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketClient.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketClient.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maxwit/course/SocketServer.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
